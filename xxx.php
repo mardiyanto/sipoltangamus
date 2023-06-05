@@ -40,6 +40,7 @@ include "config/class_paging.php";
 
     <!-- Template Stylesheet -->
     <link href="tema/css/style.css" rel="stylesheet">
+	<link href="post.css" rel="stylesheet">
 </head>
 
 <body>
@@ -169,8 +170,8 @@ $no++;?>
     </div>
 
     <!-- JavaScript Libraries -->
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="tema/js/jquery-3.4.1.min.js"></script>
+    <script src="tema/js/bootstrap.bundle.min.js"></script>
     <script src="tema/lib/wow/wow.min.js"></script>
     <script src="tema/lib/easing/easing.min.js"></script>
     <script src="tema/lib/waypoints/waypoints.min.js"></script>
