@@ -158,7 +158,7 @@
                                 <div class="d-flex mb-3">
                                     <small class="border-end me-3 pe-3"><i class="fa fa-bed text-primary me-2"></i>dibaca : <?=$ar[dilihat]?> X</small>
                                     <small class="border-end me-3 pe-3"><i class="fa fa-bath text-primary me-2"></i><?=$ar[tanggal]?> - <?=$ar[jam]?></small>
-                                    <small><i class="fa fa-wifi text-primary me-2"></i>Wifi</small>
+                
                                 </div>
                                 <p class="text-body mb-3"><?=$isi6?></p>
                                 <div class="d-flex justify-content-between">
